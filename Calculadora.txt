@@ -1,0 +1,3 @@
+Para executar no browser local http://localhost:5173 precisa do node.js
+
+
